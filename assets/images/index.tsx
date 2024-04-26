@@ -1,0 +1,9 @@
+export const PreloaderGIF = 'https://imagedelivery.net/tyPZN-RvBBs2ebq4ESc-pA/276b3905-0308-4903-0afe-3c049d02ea00/public';
+export const Logo = require('assets/images/logo368.png');
+export const openEyeIconWhite = require('assets/images/icons/white/openeye.png');
+export const openEyeIconActive = require('assets/images/icons/active/openeye.png');
+export const openEyeIconBlur = require('assets/images/icons/blur/openeye.png');
+export const closeEyeIconWhite = require('assets/images/icons/white/closeeye.png');
+export const closeEyeIconActive = require('assets/images/icons/active/closeeye.png');
+export const closeEyeIconBlur = require('assets/images/icons/blur/closeeye.png');
+export const Favicon = require('assets/images/favicon.png');
